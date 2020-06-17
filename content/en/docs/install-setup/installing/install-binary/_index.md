@@ -35,10 +35,10 @@ Pick the most suitable instructions for your operating system:
     sudo mv jx /usr/local/bin
     ```
 
-1. Run `jx --version` to make sure you're on the latest stable version
+1. Run `jx version` to make sure you're on the latest stable version
 
    ```sh
-   jx --version
+   jx version
    ```
 
 ## Linux
